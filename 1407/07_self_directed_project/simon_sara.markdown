@@ -1,16 +1,16 @@
-### [Discuss]
+### [READ WITH ME (name TBD)]
 
 **SELECTED**
 
 ### Pitch
 
-Finally, an app for those of us who wish every night could be a book club night.
+An app for those of us who want to discover cool new books and cool new reading spots.
 
 ### Description
 
-With Discuss, users can browse a list of books, find a good place in their neighborhood to chat, and share an invite with their social circles.
+With READ WITH ME (name TBD), users can browse a list of books, find a good place in their neighborhood to read, and share their selection with their social circles.
 
-I'm planning on pulling in data from the NY Public Library Digital Collection API. Users can input a keyword and find books that match that keyword. This will spark some book ideas, as users will get a sense of what's out there to discuss. Next, users can use Google Maps to find areas of interest around them -- libraries, parks, restaurants, cafes, etc. Finally, they'll be able to take the name of the book and the name of the location they've selected, choose a date and time, and send a message to their friends inviting them to the discussion.
+I'm planning on pulling in data from the NY Public Library Digital Collection API. Users can input a keyword and find books that match that keyword. Next, users can use Google Maps (and/or Yelp and Foursquare?) to find areas of interest around them -- libraries, parks, restaurants, cafes, etc. Finally, they'll be able to take the name of the book and the name of the location they've selected and send a message to their friends inviting them to come read along.
 
 ### Target Audience
 
@@ -36,7 +36,9 @@ By Thursday, December 4: Ruby gem completed. Full functioning web app with added
 
 ### Game plan
 
-If things go ridiculously better than planned: Twitter bot it. Folks can tweet their zipcode and a genre to the bot, bot will tweet back location nearby and random book selection from that genre.
+If things go ridiculously better than planned: Twitter bot it. Folks can tweet their zip code and a genre to the bot, bot will tweet back location nearby and random book selection from that genre.
+
+If things go better than planned: Add in "I'm coming to read with you!" RSVP functionality.
 
 If things go as planned: YO, SARA. You just built a sweet app.
 
@@ -50,7 +52,7 @@ If proximity-based searching API goes miserably: I will feel very not smart.
 
 
 
-
+-----------------------------------------------
 
 
 ### [Particle]
