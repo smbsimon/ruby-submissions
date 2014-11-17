@@ -36,7 +36,7 @@ Finally, an app for those of us who wish every night could be a book club night.
 
 With Discuss, users can browse a list of books, find a good place in their neighborhood to chat, and share an invite with their social circles.
 
-I'm planning on pulling in data from the NY Public Library Digital Collection API. Users can input a key word and find books that match that keyword. This will spark some book ideas, as users will get a sense of what's out there to discuss. Next, users can use Google Maps to find areas of interest around them -- libraries, parks, restaurants, cafes, etc. Finally, they'll be able to take the name of the book and the name of the location they've selected, choose a date and time, and send a message to their friends inviting them to the discussion.
+I'm planning on pulling in data from the NY Public Library Digital Collection API. Users can input a keyword and find books that match that keyword. This will spark some book ideas, as users will get a sense of what's out there to discuss. Next, users can use Google Maps to find areas of interest around them -- libraries, parks, restaurants, cafes, etc. Finally, they'll be able to take the name of the book and the name of the location they've selected, choose a date and time, and send a message to their friends inviting them to the discussion.
 
 
 ### Target Audience
